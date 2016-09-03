@@ -1,0 +1,31 @@
+
+body{
+  background-color: gray;
+}
+
+h1{
+  text-align: center;
+  tex
+
+
+}
+
+img {
+  width: 200px
+  height:200px
+
+}
+
+.posts{
+  border: 1px;
+
+  width: 700px;
+  height: 250px;
+  background-color: lightblue;
+  font-family: sans-serif;
+
+    border: 5px solid black;
+    padding: 25px;
+    margin: 25px;
+
+}
